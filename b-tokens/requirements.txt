@@ -1,4 +1,5 @@
 pandas
 spacy
 html2text
-
+wiki_ru_wordnet
+nltk
