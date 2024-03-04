@@ -1,0 +1,8 @@
+pandas
+spacy
+html2text
+wiki_ru_wordnet
+nltk
+
+# ru_core_news_sm
+# en_core_web_sm
